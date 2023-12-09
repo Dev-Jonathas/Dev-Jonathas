@@ -9,7 +9,7 @@
 
 ## 🏆 GitHub Trophies
  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XavJon&theme=dark_lover&row=2&margin-w=20&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=XavJon&theme=dark_lover&row=1&margin-w=15&margin-h=15" />
 </p>
 
 ## 🌐 Socials:
