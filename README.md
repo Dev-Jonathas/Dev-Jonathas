@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D2691E&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jonathas+Xavier;I'm+22+years+old;I'm+from+Brazil;I+Graduated+System+Information;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=XavJon&show_icons=true&count_private=true&hide_border=true&title_color=CD853F&icon_color=CD853F&text_color=F8F8FF&bg_color=1C1C1C" alt="Jonathas Xavier github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavJon&layout=compact&hide_border=true&title_color=CD853F&text_color=F8F8FF&bg_color=1C1C1C" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=XavJon11&show_icons=true&count_private=true&hide_border=true&title_color=CD853F&icon_color=CD853F&text_color=F8F8FF&bg_color=1C1C1C" alt="Jonathas Xavier github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavJon11&layout=compact&hide_border=true&title_color=CD853F&text_color=F8F8FF&bg_color=1C1C1C" />
 </div>
 
 ## 🏆 GitHub Trophies
  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XavJon&theme=dark_lover&row=1&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=XavJon11&theme=dark_lover&row=1&margin-w=15&margin-h=15" />
 </p>
 
 ## 🌐 Socials:
@@ -34,4 +34,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D2691E&height=120&section=footer"/>
 
-[![](https://visitcount.itsvg.in/api?id=XavJon&label=Profile%20Views&color=2&icon=7&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=XavJon11&label=Profile%20Views&color=2&icon=7&pretty=true)](https://visitcount.itsvg.in)
