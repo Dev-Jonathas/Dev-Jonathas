@@ -32,6 +32,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-### ✍️.
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D2691E&height=120&section=footer"/>
+
+[![](https://visitcount.itsvg.in/api?id=XavJon&label=Profile%20Views&color=2&icon=7&pretty=true)](https://visitcount.itsvg.in)
